@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <ClientSideComponentInstance
+        Title="DocumentPreview"
+        Location="ClientSideExtension.ListViewCommandSet"
+        ListTemplateId="101"
+        Properties="{}"
+        ComponentId="8b120bc0-31c1-4fcd-afa2-ac1ec3db9e45" />
+</Elements>
